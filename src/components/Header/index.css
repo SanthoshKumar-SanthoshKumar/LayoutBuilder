@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.header-container {
+  background-color: #64748b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  padding: 40px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.config-container {
+  background-color: #475569;
+  width: 100%;
+  align-items: center;
+  font-family: 'Roboto';
+  color: #fff;
+  padding: 10px 30px;
+}
+
+.input-section {
+  display: flex;
+  flex-direction: column;
+}
